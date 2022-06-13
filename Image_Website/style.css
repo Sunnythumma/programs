@@ -1,0 +1,12 @@
+a{
+	color:blue;
+	padding:5px;
+	margin:5px;
+	text-decoration:none;
+	font-family:calibri;
+	font-weight:bold;
+}
+a:hover{
+	background:blue;
+	color:white;
+}
